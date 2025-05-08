@@ -22,6 +22,17 @@
 
 ---
 
+## 🛠️ Stack Tecnológico
+
+<p>
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=white"/>
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-%236646FF.svg?style=flat&logo=vite&logoColor=white"/>
+</p>
+
+---
+
 ## 📜 Experiencia
 
 - **Desarrollador Full-Stack**, Ricoh España  
@@ -33,16 +44,3 @@
 - **Desarrollador en Prácticas**, Ricoh España  
   _Septiembre 2021 – Mayo 2022_  
   - Diseño y desarrollo de microservicios con Spring Boot. 
-
----
-
-## 🛠️ Stack Tecnológico
-
-<p>
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white"/>
-  <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white"/>
-  <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=white"/>
-  <img alt="Vite" src="https://img.shields.io/badge/Vite-%236646FF.svg?style=flat&logo=vite&logoColor=white"/>
-</p>
-
----
